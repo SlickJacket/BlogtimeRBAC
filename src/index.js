@@ -7,7 +7,7 @@ import DashboardPage from './pages/dashboard';
 
 function App() {
   return (
-    <div className="Appcontainer">
+    <div className="App container">
       <div className="jumbotron">
         <Router>
           <Switch>
